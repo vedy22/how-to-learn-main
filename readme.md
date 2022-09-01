@@ -1,4 +1,9 @@
-<img src="https://github.com/vedy22/vedy22/blob/main/screens/how-to-learn.jpg" alt="скрин страницы"> https://vedy22.github.io/how-to-learn-main/
+<div align="center">
+<img src="https://github.com/vedy22/vedy22/blob/main/screens/how-to-learn.jpg" alt="скрин страницы">
+
+https://vedy22.github.io/how-to-learn-main/
+
+</div>
 
 заголовок-название - Научиться учиться.
 описание проекта и его функциональности - В данном проекте показаны основные методы обучения. Приведены способы усвоения нового материала.
